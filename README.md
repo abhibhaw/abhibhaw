@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hola! Abhibhaw Here 👋
 
-<!--
-**abhibhaw/abhibhaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ukiyo for Life ❤
 
-Here are some ideas to get you started:
+- 🎓 Student @nitrkl.
+- 🔭 Currently messing with Flutter.
+- 🌱 I’m currently learning Dart.
+- 👯 I’m looking to collaborate on any interesting business idea.
+- 🤔 I’m looking for mentor-ship for ERP Projects.
+- 💬 Ask me about any tech related stuff.
+- 📫 How to reach me: [INSTAGRAM](https://instagram.com/imabhibhaw) | [SITE](https://abhibhaw.team) | [EMAIL](mailto:abhibhaw3110@gmail.com)
+- ⚡ Connect on: Coffee ☕ | Tech 
+💻 | Business Ideas 💰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&emsp;<img src="https://github-readme-stats.vercel.app/api?username=abhibhaw&&show_icons=true&title_color=ffffff&icon_color=06BCC1&text_color=F4EDEA&bg_color=12263A">
