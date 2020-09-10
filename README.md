@@ -1,6 +1,6 @@
 ## Hola! Abhibhaw Here 👋
 
-### Ukiyo for Life ❤
+### Ukiyo ❤
 
 - 🎓 Student @nitrkl.
 - 🔭 Currently messing with Flutter.
