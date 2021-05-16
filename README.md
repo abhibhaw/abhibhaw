@@ -5,7 +5,7 @@
 - 🎓 Student @nitrkl.
 - 👯 I’m looking to collaborate on any interesting business idea.
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: [INSTAGRAM](https://instagram.com/imabhibhaw) | [SITE](https://abhibhaw.team) | [EMAIL](mailto:abhibhaw3110@gmail.com)
+- 📫 How to reach me: [INSTAGRAM](https://instagram.com/imabhibhaw) | [SITE](https://abhibhaw.co) | [EMAIL](mailto:abhibhaw3110@gmail.com)
 - ⚡ Connect on: Coffee ☕ | Tech 
 💻 | Business Ideas 💰
 
