@@ -2,8 +2,8 @@ name: Hungry Snake
 
 on:
   schedule:
-      # At 04:00
-    - cron: "0 4 * * *"
+      # At 07:00
+    - cron: "0 7 * * *"
 
   workflow_dispatch:
 
